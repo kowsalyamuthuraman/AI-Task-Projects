@@ -3,12 +3,11 @@ import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-// Ant Design CSS via CDN (avoids local module resolution failures)
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'AI Task',
+  description: '',
+  generator: 'AI Task ',
 }
 
 export default function RootLayout({
