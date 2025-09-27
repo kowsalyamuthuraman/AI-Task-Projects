@@ -1,0 +1,14 @@
+# Environment Variables Template
+# Copy this file to .env and fill in your actual values
+
+# Database Configuration
+DATABASE_URL=postgresql+psycopg2://username:password@host:port/database_name
+
+# Google AI API Configuration
+# Obtain from Google AI Studio (ai.google.dev). Do not commit real keys.
+GOOGLE_API_KEY=AIzaSyBCxF_T2b0jwTF6IDXLOw1Hnw_O_x-fPcE
+GEMINI_MODEL=gemini-pro
+
+# Application Configuration
+DEBUG=True
+ENVIRONMENT=development
