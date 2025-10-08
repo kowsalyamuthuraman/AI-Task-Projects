@@ -1,7 +1,21 @@
 # AI-Powered Task Management App - Frontend Dashboard
 
 A modern, responsive task management application built with Next.js 14, featuring an AI chatbot assistant, real-time task management, and comprehensive dashboard analytics.
+**1.SIGN IN PAGE**
 <img width="1872" height="909" alt="image" src="https://github.com/user-attachments/assets/8e43e2fd-18cd-4f45-a295-f898dcd0098c" />
+
+**2.SIGN UP PAGE**
+<img width="1889" height="980" alt="image" src="https://github.com/user-attachments/assets/fd302b36-0270-4bed-910c-60f7e8c2bd22" />
+
+**3. DASHBOARD PAGE**
+<img width="1909" height="999" alt="image" src="https://github.com/user-attachments/assets/b3cbc046-806b-420a-8032-e1d4ad044667" />
+
+**4.CHATBOT PAGE**
+<img width="1916" height="1023" alt="image" src="https://github.com/user-attachments/assets/47ccdb39-415a-4fdd-af24-7fae63f59412" />
+
+**5.TASKLIST PAGE**
+<img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/cc7e6f7c-81b2-465c-bce6-e8f3133060ab" />
+
 
 
 ## 🚀 Features
