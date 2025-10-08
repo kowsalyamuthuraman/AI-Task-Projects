@@ -16,6 +16,11 @@ A modern, responsive task management application built with Next.js 14, featurin
 **5.TASKLIST PAGE**
 <img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/cc7e6f7c-81b2-465c-bce6-e8f3133060ab" />
 
+**6.TASK CREATION PAGE**
+<img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/c67c02fb-e906-4650-941a-ea48b2231128" />
+
+**7.TASK UPDATE(PRIORITY,STATUS)**
+<img width="1908" height="875" alt="image" src="https://github.com/user-attachments/assets/1c761a4f-797f-4523-afd9-2981f1da9e1b" />
 
 
 ## 🚀 Features
